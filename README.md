@@ -18,6 +18,7 @@ https://github.com/jhunt/research<br>
 https://github.com/ptnplanet/Java-Naive-Bayes-Classifier<br>
 https://github.com/jzy3d/bigpicture<br>
 https://github.com/WASdev/sample.jms.server<br>
+https://github.com/WASdev/sample.daytrader3<br>
 https://github.com/fommil/matrix-toolkits-java<br>
 https://github.com/Divyaa1/Customer-Behavior-Analytics<br>
 https://github.com/ashokvardhankari/LinkedinEasyApplybot<br>

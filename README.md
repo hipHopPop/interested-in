@@ -47,11 +47,11 @@ https://github.com/freddy33/jzy3d<br>
 # competitive coding  
   
 https://github.com/gouthampradhan/leetcode  
-https://github.com/Java-aid/Hackerrank-Solutions
-https://github.com/dj3500/hightail
-https://github.com/imaprincess/Algorithms-4-everyone
-https://github.com/detel/Faster-InputOutput-Implementations
-https://github.com/nayuki/DWITE-programming-contest-solutions
-https://github.com/foureyez/MyExperimentsWithJava
-https://github.com/varunu28/Algorithms-and-Data-Structures
-https://github.com/darshakmehta/Programming-Guide
+https://github.com/Java-aid/Hackerrank-Solutions  
+https://github.com/dj3500/hightail  
+https://github.com/imaprincess/Algorithms-4-everyone  
+https://github.com/detel/Faster-InputOutput-Implementations  
+https://github.com/nayuki/DWITE-programming-contest-solutions  
+https://github.com/foureyez/MyExperimentsWithJava  
+https://github.com/varunu28/Algorithms-and-Data-Structures  
+https://github.com/darshakmehta/Programming-Guide  

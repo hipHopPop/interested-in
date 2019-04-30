@@ -41,6 +41,13 @@ https://github.com/ashokvardhankari/tidy-data<br>
 https://github.com/RexYing/python-chat-app<br>
 https://github.com/srccodes/spring-security-http-basic-authentication<br>
 https://github.com/freddy33/jzy3d<br>
+<br>
+https://github.com/jubins/AES-Secure-Chat-Messenger<br>
+https://github.com/jubins/Hadoop-Programming-For-Big-Data-Analytics-Course<br>
+https://github.com/jubins/HadoopBigData-MaxTemperatureProject<br>
+https://github.com/jubins/Spark-And-MLlib-Projects<br>
+https://hadoopecosystemtable.github.io/<br>
+
 
 -----------------------------------------------------------------
 
